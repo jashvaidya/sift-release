@@ -5,6 +5,16 @@ All notable changes to Sift will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.1] - 2026-01-26
+
+### Fixed
+- 🐛 Fixed "Invalid video file: FileNotFoundError" error when uploading videos
+  - FFmpeg was not being found in the correct location after installation
+  - Backend now correctly locates FFmpeg in the Tauri resources folder
+- 📝 Added FFmpeg/FFprobe path logging at startup for easier debugging
+
+---
+
 ## [0.1.0] - 2026-01-26
 
 ### 🎉 Initial Release
