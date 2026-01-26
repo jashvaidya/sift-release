@@ -5,6 +5,15 @@ All notable changes to Sift will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.2] - 2026-01-26
+
+### Fixed
+- 🔄 Fixed auto-update failing with "Error opening file for writing: sift-backend.exe"
+  - Backend process is now properly terminated before installer runs
+  - Added NSIS PREINSTALL hook to kill running processes during update
+
+---
+
 ## [0.1.1] - 2026-01-26
 
 ### Fixed
