@@ -13,6 +13,8 @@
 
 ---
 
+![Sift - Find the Gold in Your Gameplay](screenshots/hero.png)
+
 </div>
 
 ## 🎮 What is Sift?
@@ -55,6 +57,14 @@ Sift analyzes your gameplay recordings and automatically finds exciting moments 
 2. **Analyze** — Sift detects exciting moments using audio analysis
 3. **Review** — Browse clips, adjust boundaries, add names and tags
 4. **Export** — Export individual clips or create montages
+
+<p align="center">
+  <img src="screenshots/analysis.png" alt="Analyzing video" width="80%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/export.png" alt="Export panel" width="80%" />
+</p>
 
 <br>
 
