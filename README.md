@@ -29,12 +29,14 @@ Sift analyzes your gameplay recordings and automatically finds exciting moments 
 
 | Feature | Description |
 |---------|-------------|
-| 🎯 **Smart Detection** | Finds moments using audio spikes and voice activity detection |
+| 🎯 **Smart Detection** | Finds moments using voice activity, volume spikes, and visual motion analysis |
+| 👁️ **Visual Detection** | Detects clip-worthy moments even during silence — silent reactions, action without commentary |
 | ✂️ **Clip Trimming** | Fine-tune boundaries with drag handles and live preview |
-| 🏷️ **Organization** | Name, tag, and favorite your clips |
+| 🏷️ **Organization** | Name, tag, and favorite your clips — batch rename supported |
 | 🎬 **Montage Export** | Export individual clips or merge multiple into one video |
 | 📱 **Platform Presets** | Quick export for TikTok, YouTube Shorts, Instagram Reels |
 | 🎨 **Quality Options** | Export in high, medium, or low quality |
+| 🔍 **Timeline Zoom** | Zoom into the timeline for precise navigation between clips |
 | 📁 **Watch Folders** | Auto-import videos from specified folders |
 | 🔄 **Auto Updates** | Stay current with one-click updates |
 | 🌙 **Dark UI** | Clean, modern interface for content creators |
@@ -54,7 +56,7 @@ Sift analyzes your gameplay recordings and automatically finds exciting moments 
 ## 🚀 How It Works
 
 1. **Upload** — Drag & drop or browse for video files (MP4, MKV, MOV, AVI, WEBM)
-2. **Analyze** — Sift detects exciting moments using audio analysis
+2. **Analyze** — Sift detects exciting moments using audio and visual analysis
 3. **Review** — Browse clips, adjust boundaries, add names and tags
 4. **Export** — Export individual clips or create montages
 
