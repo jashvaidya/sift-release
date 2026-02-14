@@ -22,14 +22,8 @@ All notable changes to Sift will be documented in this file.
 
 ### Improved
 - **Responsive layout** — adapts to different window sizes with fluid content area
-- **Compact sidebar** — fixed 320px width with tighter spacing for video cards
-- **Dev workflow** — better process cleanup, faster dev builds
+- **Compact sidebar** — tighter spacing for video cards
+- **Cleaner notifications** — reduced unnecessary toast messages
 
 ### Fixed
-- Duplicate video upload now shows proper error instead of CORS error
-- Orphaned backend processes on port 8000 are cleaned up on dev start
-- PowerShell `$PID` variable conflict in dev script
-- Removed excessive toast notifications (undo, redo, favorite, clip created)
-
-### Removed
-- Fullscreen mode (unnecessary for clip review workflow)
+- Duplicate video upload now shows proper error message
