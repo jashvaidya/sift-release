@@ -74,19 +74,6 @@ Sift analyzes your gameplay recordings and automatically finds exciting moments 
 
 <br>
 
-## 🛡️ Why Sift?
-
-| | Medal.tv | Outplayed | Insights.gg | **Sift** |
-|---|---|---|---|---|
-| **100% Local** | ❌ Cloud | ❌ Cloud | ❌ Cloud | ✅ |
-| **Free — no limits** | Limited | Limited | Limited | ✅ |
-| **No account needed** | ❌ | ❌ | ❌ | ✅ |
-| **Works offline** | ❌ | ❌ | ❌ | ✅ |
-| **NLE integration** | ❌ | ❌ | ❌ | ✅ |
-| **Post-recording analysis** | ❌ Live only | ❌ Live only | ❌ Live only | ✅ |
-
-<br>
-
 ## 💻 System Requirements
 
 | Component | Requirement |
