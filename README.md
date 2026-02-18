@@ -99,7 +99,7 @@ I'm actively building Sift toward v1.0. Here's what's on the horizon:
 | **v0.8** | Polish | Onboarding, settings overhaul, accessibility, keyboard shortcut reference |
 | **v1.0** | Release | Full polish, beta testing, public launch |
 
-Have a feature request? [Open an issue](https://github.com/JashVaidya/sift-release/issues) — we read every one.
+Have a feature request? [Open an issue](https://github.com/JashVaidya/sift-release/issues)
 
 <br>
 
