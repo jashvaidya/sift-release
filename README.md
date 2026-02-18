@@ -4,7 +4,7 @@
 
 ### Sift through your footage. Find the gold.
 
-**Automatically detect the best moments in your gaming footage — 100% local, 100% free.**
+**Automatically detect the best moments in your gaming footage — 100% local**
 
 [<img src="https://img.shields.io/badge/Download-Windows-0078D4?style=for-the-badge&logo=windows" alt="Download for Windows" />](https://github.com/JashVaidya/sift-release/releases/latest)
 
@@ -19,7 +19,7 @@
 
 ## 🎮 What is Sift?
 
-Sift analyzes your gameplay recordings and automatically finds exciting moments — clutch plays, funny fails, highlight-worthy clips. No cloud uploads, no accounts, no subscriptions.
+Sift analyzes your gameplay recordings and automatically finds exciting moments — clutch plays, funny fails, highlight-worthy clips.
 
 **Stop scrubbing through hours of footage.** Let Sift find the gold.
 
@@ -53,7 +53,7 @@ Sift analyzes your gameplay recordings and automatically finds exciting moments 
 2. **Run** the installer
 3. **Launch** Sift from the Start Menu
 
-> **Note:** Windows SmartScreen may show a warning since the app isn't signed with a paid certificate. Click "More info" → "Run anyway" to proceed. This is normal for indie software.
+> **Note:** Windows SmartScreen may show a warning since the app isn't signed with a paid certificate. Click "More info" → "Run anyway" to proceed.
 
 <br>
 
@@ -87,7 +87,7 @@ Sift analyzes your gameplay recordings and automatically finds exciting moments 
 
 ## 🗺️ What's Coming
 
-We're actively building Sift toward v1.0. Here's what's on the horizon:
+I'm actively building Sift toward v1.0. Here's what's on the horizon:
 
 | Version | Theme | Highlights |
 |---------|-------|------------|
@@ -125,7 +125,4 @@ Please include:
 © 2026 Jash Vaidya. All rights reserved.
 
 ---
-
-<div align="center">
-<sub>Made with ❤️ for content creators</sub>
 </div>
