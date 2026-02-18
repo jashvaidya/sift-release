@@ -81,7 +81,7 @@ Sift analyzes your gameplay recordings and automatically finds exciting moments 
 | OS | Windows 10/11 (64-bit) |
 | RAM | 8 GB minimum |
 | Storage | 300 MB for app |
-| GPU | Not required (CPU-based) |
+| GPU | Not required (optional NVIDIA GPU accelerates analysis & export) |
 
 <br>
 
@@ -92,11 +92,12 @@ We're actively building Sift toward v1.0. Here's what's on the horizon:
 | Version | Theme | Highlights |
 |---------|-------|------------|
 | **v0.3** | Smart Detection | Custom sound cue training, per-game profiles, improved visual analysis |
-| **v0.4** | Editing Power | Multi-moment trimmer, transitions, text overlays, audio ducking |
-| **v0.5** | Organization | Projects, tagging system, search & filter, bulk operations |
-| **v0.6** | Performance | GPU-accelerated export, background analysis, large file optimization |
-| **v0.7** | Sharing | Direct upload to YouTube/TikTok, link sharing, thumbnail generation |
-| **v1.0** | Release | macOS support, full polish, onboarding flow |
+| **v0.4** | Editing Power | Waveform visualization, enhanced multi-select, bulk actions |
+| **v0.5** | Organization | Tags, favorites, search & filter, sort options |
+| **v0.6** | Performance | GPU-accelerated analysis & export, analysis/export queues, background processing |
+| **v0.7** | Export Polish | Platform presets, GIF export, export history |
+| **v0.8** | Polish | Onboarding, settings overhaul, accessibility, keyboard shortcut reference |
+| **v1.0** | Release | Full polish, beta testing, public launch |
 
 Have a feature request? [Open an issue](https://github.com/JashVaidya/sift-release/issues) — we read every one.
 
