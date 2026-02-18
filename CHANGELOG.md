@@ -2,6 +2,19 @@
 
 All notable changes to Sift will be documented in this file.
 
+## [0.2.1] - 2026-02-18
+
+### Fixed
+- Fixed a startup crash related to FFprobe path resolution
+- Toast notifications no longer pop up for every minor action
+
+### Improved
+- Smooth animations throughout the app — modals, dropdowns, and export indicator now animate in/out
+- Redesigned video cards with bigger thumbnails and more info at a glance
+- Player glow effect in the editor view
+- Library sidebar scales better across different window sizes
+- Export status indicator slides in/out with animation instead of popping
+
 ## [0.1.12] - 2026-02-14
 
 ### Added

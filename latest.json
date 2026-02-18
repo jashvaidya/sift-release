@@ -1,0 +1,11 @@
+{
+  "version": "0.2.1",
+  "notes": "Bug fixes, smooth animations, redesigned video cards",
+  "pub_date": "2026-02-17T22:36:58Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbmFuMEJaTmZ6enNOcGh4L0lMYXNuSXgwUnlST0FoZVh5d0hPclBPczArdUFkc3crTVZncjJDY0pHKzkyd09ZK2w5MEF0c1JXRG82MlY0UEVZVXBxbVdjZnc1UG9YMGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMzg0MTU1CWZpbGU6U2lmdF8wLjIuMV94NjQtc2V0dXAuZXhlCm0zc016d1lua0QzT2FrVUhKM3BkbGZDcVBraHQ3ZVJjRG8ybm1GazllRC94TFdzOXFUb2E2NUtReVNRSEQ3ZkZsTjJxZytNbysvMkxjWlFmN0QxaUNRPT0K",
+      "url": "https://github.com/JashVaidya/sift-release/releases/download/v0.2.1/Sift_0.2.1_x64-setup.exe"
+    }
+  }
+}
