@@ -2,6 +2,29 @@
 
 All notable changes to Sift will be documented in this file.
 
+## [0.2.2] - 2026-02-19
+
+### Added
+- **Timeline ruler** — time notches/marks above clips for easy position reference
+- **Multi-file drop** — drag and drop multiple videos at once
+- **Undo split** — undo accidental clip splits
+- **Manual clip creation** — double-click timeline to add a clip at any point
+- **Keyboard clip navigation** — arrow keys to move between clips, Delete to remove
+- **Quality filter chips** — toggle S/A/B/C quality tiers with visual chip buttons
+
+### Improved
+- **Larger clip editor** — timeline track and trim handles are bigger and easier to interact with
+- **Larger timeline area** — clip markers and time labels scaled up for better readability
+- **Zoom stays focused** — zooming with buttons keeps the selected clip centered
+- **Minimum zoom floor** — prevents zooming out so far that clips visually overlap
+- **Speech clip boundaries** — clips that capture speech no longer cut off too early at start/end
+- **Clip trimmer drag** — drag the entire selected region to reposition a clip
+- **Scrollable clips section** — clip list and trimmer scroll properly when content overflows
+
+### Fixed
+- **Quality filter "All off"** — toggling all quality filters off now correctly hides all clips
+- **Layout overflow** — fixed right column expanding beyond viewport when clip list is open
+
 ## [0.2.1] - 2026-02-18
 
 ### Fixed
